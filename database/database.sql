@@ -1,4 +1,4 @@
---
+-- Angel is fun
 -- PostgreSQL database dump
 --
 
