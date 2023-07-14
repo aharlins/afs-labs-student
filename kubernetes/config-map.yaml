@@ -4,4 +4,4 @@ metadata:
   name: feature-toggle
   namespace: aharlins
 data:
-  LOCATION_FEATURE_ENABLED: "true"
+  LOCATION_FEATURE_ENABLED: "True"
